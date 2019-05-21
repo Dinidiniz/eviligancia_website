@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="https://dinidiniz.github.io/eviligancia_website/stylesheets/style.css">
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Dinidiniz/eviligancia_website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
